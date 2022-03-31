@@ -4,11 +4,8 @@ repo: status    # The name of this repository
 sites:
   - name: blog.hansl.uk
     url: https://blog.hansl.uk
-  
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: Google
-    url: https://www.google.com
+  - name: hapu/nc
+    url: https://hapu.hansl.uk/nc
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
