@@ -12,6 +12,9 @@ sites:
     url: $URL_BOOKS
   - name: "favbkout"
     url: $URL_FAVA
+    expectedStatusCodes:
+      - 200
+      - 403
   - name: "wb"
     url: $URL_WB
 
