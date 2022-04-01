@@ -35,3 +35,12 @@ status-website:
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+
+workflowSchedule:
+  uptime:       "*/5 * * * *"   # checks sites
+  responseTime: "0 * * * *"     # record response time
+  graphs:       "0 */6 * * *"
+  staticSite:   "0 */6 * * *"   # update gh-pages
+  summary:      "0 7 * * *"     # update repo/readme.md
+  updateTemplate: "0 0 * * *"   # 
+  updates:      "0 3 * * *"
