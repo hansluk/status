@@ -59,19 +59,17 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "favbkout",
     "status": "down",
-    "uptime": "12.82%",
-    "uptimeDay": "12.82%",
-    "uptimeWeek": "12.82%",
-    "uptimeMonth": "12.82%",
-    "uptimeYear": "12.82%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 344,
     "timeDay": 344,
     "timeWeek": 344,
     "timeMonth": 344,
     "timeYear": 344,
-    "dailyMinutesDown": {
-      "2022-04-01": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "wb",
