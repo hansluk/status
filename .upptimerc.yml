@@ -5,18 +5,18 @@ sites:
   - name: blog.hansl.uk
     url: https://blog.hansl.uk
   
-  - name: "nc"
-    url: $URL_NC
+  - name: "nextcloud"
+    url: $URL_NEXTCLOUD
 
-  - name: books
+  - name: "books"
     url: $URL_BOOKS
-  - name: "favbkout"
+  - name: "FAVA"
     url: $URL_FAVA
     expectedStatusCodes:
       - 200
       - 403
-  - name: "wb"
-    url: $URL_WB
+  - name: "wallabag"
+    url: $URL_WALLABAG
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
