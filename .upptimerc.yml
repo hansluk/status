@@ -4,8 +4,8 @@ repo: status    # The name of this repository
 sites:
   - name: blog.hansl.uk
     url: https://blog.hansl.uk
-  - name: hapu/nc/
-    url: https://hapu.hansl.uk/nc/
+  - name: "hapu nc"
+    url: $HAPU_NC
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -14,8 +14,8 @@ status-website:
   baseUrl: /status
   #logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Status
-  introTitle: "hansl.uk service status"
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "hansl.uk Service Status"
+  introMessage: This status page uses [upptime](https://github.com/upptime/upptime) generated with GitHub Actions, Issues, and Pages.
   navbar:
     - title: Status
       href: /
