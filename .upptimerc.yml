@@ -24,13 +24,13 @@ status-website:
   #cname: demo.upptime.js.org
   baseUrl: /status
   #logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Status
-  introTitle: "hansl.uk Service Status"
-  introMessage: This status page uses [upptime](https://github.com/upptime/upptime) generated with GitHub Actions, Issues, and Pages.
+  name: hansl.uk Services Status
+  introTitle: "hansl.uk Services Status"
+  introMessage: This status page was generated using [upptime](https://github.com/upptime/upptime) with GitHub Actions, Issues, and Pages.
   navbar:
     - title: Status
-      href: /
-    - title: GitHub
+      href: /status
+    - title: Repo
       href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
