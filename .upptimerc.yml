@@ -8,15 +8,15 @@ sites:
   - name: "nextcloud"
     url: $URL_NEXTCLOUD
 
-  - name: "books"
-    url: $URL_BOOKS
-  - name: "FAVA"
-    url: $URL_FAVA
-    expectedStatusCodes:
-      - 200
-      - 403
-  - name: "wallabag"
-    url: $URL_WALLABAG
+#   - name: "books"
+#     url: $URL_BOOKS
+#   - name: "FAVA"
+#     url: $URL_FAVA
+#     expectedStatusCodes:
+#       - 200
+#       - 403
+#   - name: "wallabag"
+#     url: $URL_WALLABAG
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -26,7 +26,7 @@ status-website:
   #logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: hansl.uk Services Status
   introTitle: "hansl.uk Services Status"
-  introMessage: This status page was generated using [upptime](https://github.com/upptime/upptime) with GitHub Actions, Issues, and Pages.
+#   introMessage: This status page was generated using [upptime](https://github.com/upptime/upptime) with GitHub Actions, Issues, and Pages.
   navbar:
     - title: Status
       href: /status
@@ -37,10 +37,10 @@ status-website:
 # See https://upptime.js.org/docs/configuration
 
 workflowSchedule:
-  uptime:       "*/5 * * * *"   # checks sites
-  responseTime: "0 * * * *"     # record response time
-  graphs:       "0 */6 * * *"
-  staticSite:   "0 */6 * * *"   # update gh-pages
+  graphs:       "0 * * * *"
+  responseTime: "0 */3 * * *"   # record response time
+  staticSite:   "0 1 * * *"     # update gh-pages
   summary:      "0 7 * * *"     # update repo/readme.md
   updateTemplate: "0 0 * * *"   # 
   updates:      "0 3 * * *"
+  uptime:       "*/5 * * * *"   # checks sites
