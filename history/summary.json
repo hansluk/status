@@ -5,15 +5,15 @@
     "icon": "https://favicons.githubusercontent.com/blog.hansl.uk",
     "slug": "blog-hansl-uk",
     "status": "up",
-    "uptime": "89.11%",
+    "uptime": "89.14%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "87.87%",
-    "uptimeYear": "89.11%",
+    "uptimeYear": "89.14%",
     "time": 613,
-    "timeDay": 336,
-    "timeWeek": 392,
-    "timeMonth": 624,
+    "timeDay": 332,
+    "timeWeek": 393,
+    "timeMonth": 622,
     "timeYear": 613,
     "dailyMinutesDown": {
       "2022-04-25": 608,
@@ -34,18 +34,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "nextcloud",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.72%",
+    "uptimeDay": "89.56%",
+    "uptimeWeek": "98.51%",
+    "uptimeMonth": "99.66%",
+    "uptimeYear": "99.72%",
     "time": 1876,
-    "timeDay": 1740,
-    "timeWeek": 1849,
+    "timeDay": 1702,
+    "timeWeek": 1851,
     "timeMonth": 1881,
     "timeYear": 1876,
     "dailyMinutesDown": {
-      "2022-05-09": 0
+      "2022-05-09": 150
     }
   }
 ]
