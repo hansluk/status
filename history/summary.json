@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.hansl.uk.ico",
     "slug": "blog-hansl-uk",
     "status": "up",
-    "uptime": "86.42%",
+    "uptime": "86.44%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.43%",
-    "time": 395,
-    "timeDay": 391,
-    "timeWeek": 384,
-    "timeMonth": 385,
+    "uptimeYear": "97.71%",
+    "time": 394,
+    "timeDay": 346,
+    "timeWeek": 373,
+    "timeMonth": 383,
     "timeYear": 401,
     "dailyMinutesDown": {
       "2023-10-12": 471,
@@ -27,8 +27,7 @@
       "2023-02-03": 650,
       "2023-02-02": 1440,
       "2023-02-01": 1440,
-      "2023-01-31": 1440,
-      "2023-01-30": 1440
+      "2023-01-31": 1440
     }
   },
   {
@@ -37,16 +36,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "nextcloud",
     "status": "up",
-    "uptime": "95.13%",
+    "uptime": "95.14%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "93.13%",
+    "uptimeYear": "93.30%",
     "time": 1389,
-    "timeDay": 1404,
-    "timeWeek": 1395,
-    "timeMonth": 1382,
-    "timeYear": 1389,
+    "timeDay": 1389,
+    "timeWeek": 1381,
+    "timeMonth": 1381,
+    "timeYear": 1388,
     "dailyMinutesDown": {
       "2023-12-22": 675,
       "2023-12-21": 153,
@@ -94,8 +93,7 @@
       "2023-04-05": 36,
       "2023-03-31": 46,
       "2023-02-01": 117,
-      "2023-01-31": 31,
-      "2023-01-30": 164
+      "2023-01-31": 31
     }
   }
 ]
