@@ -5,21 +5,20 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.hansl.uk.ico",
     "slug": "blog-hansl-uk",
     "status": "up",
-    "uptime": "89.23%",
+    "uptime": "89.25%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.89%",
     "time": 406,
-    "timeDay": 467,
-    "timeWeek": 408,
-    "timeMonth": 514,
+    "timeDay": 455,
+    "timeWeek": 418,
+    "timeMonth": 515,
     "timeYear": 407,
     "dailyMinutesDown": {
       "2024-07-12": 35,
       "2024-05-01": 35,
-      "2023-10-12": 471,
-      "2023-07-24": 37
+      "2023-10-12": 471
     }
   },
   {
@@ -31,12 +30,12 @@
     "uptime": "95.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.80%",
-    "uptimeMonth": "81.53%",
+    "uptimeMonth": "82.52%",
     "uptimeYear": "95.72%",
     "time": 1396,
-    "timeDay": 1426,
-    "timeWeek": 1322,
-    "timeMonth": 1499,
+    "timeDay": 1340,
+    "timeWeek": 1320,
+    "timeMonth": 1449,
     "timeYear": 1397,
     "dailyMinutesDown": {
       "2024-07-16": 20,
