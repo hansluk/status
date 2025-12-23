@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.11%",
     "time": 488,
-    "timeDay": 611,
-    "timeWeek": 548,
-    "timeMonth": 489,
+    "timeDay": 590,
+    "timeWeek": 541,
+    "timeMonth": 491,
     "timeYear": 482,
     "dailyMinutesDown": {
       "2025-09-13": 1038,
@@ -37,15 +37,15 @@
     "slug": "nextcloud",
     "status": "up",
     "uptime": "96.12%",
-    "uptimeDay": "88.40%",
+    "uptimeDay": "90.20%",
     "uptimeWeek": "91.87%",
     "uptimeMonth": "96.00%",
     "uptimeYear": "92.11%",
     "time": 1499,
-    "timeDay": 1533,
-    "timeWeek": 1607,
-    "timeMonth": 1530,
-    "timeYear": 1504,
+    "timeDay": 1604,
+    "timeWeek": 1612,
+    "timeMonth": 1532,
+    "timeYear": 1505,
     "dailyMinutesDown": {
       "2025-12-22": 141,
       "2025-12-21": 26,
@@ -101,8 +101,7 @@
       "2024-12-27": 1440,
       "2024-12-26": 1440,
       "2024-12-25": 1440,
-      "2024-12-24": 1440,
-      "2024-12-23": 602
+      "2024-12-24": 1440
     }
   }
 ]
