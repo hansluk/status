@@ -6,8 +6,8 @@
     "slug": "blog-hansl-uk",
     "status": "down",
     "uptime": "89.51%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "96.83%",
+    "uptimeDay": "97.89%",
+    "uptimeWeek": "96.53%",
     "uptimeMonth": "63.74%",
     "uptimeYear": "81.57%",
     "time": 1624,
@@ -16,6 +16,7 @@
     "timeMonth": 3344,
     "timeYear": 1687,
     "dailyMinutesDown": {
+      "2026-05-17": 30,
       "2026-05-13": 320,
       "2026-05-02": 200,
       "2026-05-01": 833,
