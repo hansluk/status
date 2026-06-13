@@ -1,11 +1,6 @@
 owner: hansluk  # Your GitHub organization or username, where this repository lives
 repo: status    # The name of this repository
 
-<!--
-start: 2026-06-01T00:00:00+08:00
-expectedDown: nextcloud
--->
-
 sites:
   - name: blog.hansl.uk
     url: https://blog.hansl.uk
